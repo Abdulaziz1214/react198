@@ -5,6 +5,7 @@ import Elementlar from './components/Elementlar'
 const App = () => {
   return (
     <div>
+      <h1>Molbeklar</h1>
       <Counter/>
       <Elementlar/>
     </div>
